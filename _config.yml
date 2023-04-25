@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Quality Retreat
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pwicherski
-github_username:  pwicherski
+github_username:  QualityRetreat
 
 # Build settings
 theme: minima
