@@ -1,1 +1,1 @@
-QualityRetreat.pl
+Polish Quality Retreat
