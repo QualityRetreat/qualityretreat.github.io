@@ -1,1 +1,0 @@
-Polish Quality Retreat
